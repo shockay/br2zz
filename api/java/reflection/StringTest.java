@@ -1,4 +1,4 @@
-package reflect;
+package reflection;
 
 import java.lang.reflect.Field;
 /**
