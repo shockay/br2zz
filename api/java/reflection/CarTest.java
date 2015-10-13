@@ -7,7 +7,6 @@ import java.lang.reflect.Field;
  * @author shockay
  * 2015年10月13日
  * 下午5:19:02
- * 这里修改过
  */
 public class CarTest {
 
