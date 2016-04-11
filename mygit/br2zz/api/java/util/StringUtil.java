@@ -11,7 +11,7 @@ public class StringUtil {
 		log.info("123");
 		log.debug("123");
 		log.warn("123");
-		log.error("123");
+		log.error("123=============");
 	}
 
 }
