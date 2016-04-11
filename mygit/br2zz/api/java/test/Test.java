@@ -4,6 +4,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 import util.DateUtil;
+import util.StringUtil;
 
 public class Test {
 
@@ -20,7 +21,8 @@ public class Test {
 		System.out.println(overTime);
 		
 		//123123
-		
+		int i = StringUtil.CompareString("000123", "001220");
+		System.out.println(i);
 	}
 	
 }
