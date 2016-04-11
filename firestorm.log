@@ -1,0 +1,5 @@
+2016-04-11 16:35:33 ERROR (StringUtil.java:25) [main()] - 123=============
+2016-04-11 16:35:33 DEBUG (StringUtil.java:28) [main()] - 00120013
+2016-04-11 18:47:51 ERROR (StringUtil.java:25) [main()] - 123=============
+2016-04-11 18:47:51 DEBUG (StringUtil.java:28) [main()] - 00120013
+2016-04-11 18:47:51 WARN  (StringUtil.java:29) [main()] - --str1,[0012],--str2,[0013]
