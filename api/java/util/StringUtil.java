@@ -7,14 +7,6 @@ public class StringUtil {
 
 	private final static Logger log = LoggerFactory.getLogger(StringUtil.class);
 	
-	private final char value[];
-	
-	public StringUtil() {
-        this.value = new char[0];
-    }
-
-	
-	
 	public static  int CompareString (String string, String anotherString){
 		  return string.compareTo(anotherString);
 	}
