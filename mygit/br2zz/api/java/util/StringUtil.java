@@ -26,5 +26,7 @@ public class StringUtil {
 		String str1 = "0012";
 		String str2 = "0013";
 		log.debug(str1.concat(str2));
+		log.warn("--str1,[{}],--str2,[{}]" , str1, str2);
+		
 	}
 }
